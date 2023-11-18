@@ -1,0 +1,1 @@
+namespace metadata_service
