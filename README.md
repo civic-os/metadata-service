@@ -3,10 +3,10 @@ Shares information about schema (data structure and validation) with the fronten
 
 The service is designed for consumption by [Form.IO's client-side libraries](https://form.io/open-source).
 ## Roadmap
-- [] Read Tables
-- [] Read Field Types
-- [] Read FK Relationships
-- [] Allow preferences
-    - [] Field Description
-    - [] Field Order
-    - [] Field Size, Form Arrangement
+- [ ] Read Tables
+- [ ] Read Field Types
+- [ ] Read FK Relationships
+- [ ] Allow preferences
+    - [ ] Field Description
+    - [ ] Field Order
+    - [ ] Field Size, Form Arrangement
